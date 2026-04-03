@@ -1306,7 +1306,7 @@ body {
         width: min(46vw, 180px);
         top: auto;
         left: auto;
-        margin: -4px auto 14px auto;
+        margin: -4px auto -10px auto;
     }
 
     .hero img {
