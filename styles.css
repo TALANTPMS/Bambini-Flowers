@@ -173,7 +173,7 @@ body {
 
 .connection-button {
     font-family: "Montserrat-SemiBold", sans-serif;
-    background-color: #899f40;
+    background-color: #37addb;
     color: #ffffff;
     display: flex;
     align-items: center;
@@ -412,7 +412,7 @@ body {
 }
 
 .message-user .message-content {
-    background-color: #899f40;
+    background-color: #37addb;
     color: white;
     border-bottom-right-radius: 4px;
     font-family: "Montserrat-Medium";
@@ -532,7 +532,7 @@ body {
     width: 36px;
     height: 36px;
     padding: 0;
-    background-color: #899F40;
+    background-color: #37addb;
     color: white;
     border: none;
     border-radius: 50%;
@@ -592,8 +592,8 @@ body {
 
 .start-question-btn:hover {
     font-style: bold;
-    background-color: #899f40;
-    border: 1px solid #899f40;
+    background-color: #37addb;
+    border: 1px solid #37addb;
     color: #ffffff;
 }
 
@@ -625,8 +625,8 @@ body {
 
 .option-button:hover {
     font-family: "Montserrat-SemiBold", sans-serif;
-    background-color: #899f40;
-    border: 1px solid #899f40;
+    background-color: #37addb;
+    border: 1px solid #37addb;
     color: #ffffff;
 }
 
@@ -659,8 +659,8 @@ body {
 
 .messenger-button:hover {
     font-family: "Montserrat-SemiBold", sans-serif;
-    background-color: #899f40;
-    border: 1px solid #899f40;
+    background-color: #37addb;
+    border: 1px solid #37addb;
     color: #ffffff;
 }
 
@@ -723,7 +723,7 @@ body {
     text-align: center;
     border: none;
     border-radius: 100px;
-    background: #899f40;
+    background: #37addb;
     box-shadow: 0px -2px 0px rgba(0, 0, 0, 0.3) inset;
     width: 75%;
     height: 44px;
@@ -799,8 +799,8 @@ body {
 }
 
 .chat-consent__checkbox:checked + .chat-consent__checkbox-ui {
-    background-color: #899f40;
-    border-color: #899f40;
+    background-color: #37addb;
+    border-color: #37addb;
 }
 
 .chat-consent__text {
@@ -965,7 +965,7 @@ body {
 }
 
 .call-modal__input:focus {
-    border-color: #899f40;
+    border-color: #37addb;
     background: rgba(255, 255, 255, 0.03);
 }
 
@@ -976,7 +976,7 @@ body {
     margin: 0 auto;
     border: none;
     border-radius: 999px;
-    background: #899f40;
+    background: #37addb;
     color: #fff;
     font-family: "Montserrat-Bold", sans-serif;
     font-size: 16px;
@@ -1118,16 +1118,16 @@ body {
 }
 
 .cookie-link {
-    color: #899f40;
+    color: #37addb;
     text-decoration: underline;
 }
 
 .cookie-link:hover {
-    color: #899f40;
+    color: #37addb;
 }
 
 .cookie-accept-btn {
-    background-color: #899f40;
+    background-color: #37addb;
     color: #fff;
     border: none;
     border-radius: 16px;
@@ -1242,20 +1242,20 @@ body {
 .price-range {
     font-family: "Montserrat-Bold", sans-serif;
     font-style: italic;
-    color: #899f40
+    color: #37addb
 }
 
 .warrant {
     font-family: "Montserrat-Bold", sans-serif;
     font-style: italic;
-    color: #899f40
+    color: #37addb
 }
 
 .payment {
     font-family: "Montserrat-Regular", sans-serif;
     line-height: 160%;
     color: #ffffff;
-    background-color: #899f40;
+    background-color: #37addb;
     margin-bottom: 12px;
     padding: 2px 9px 4px 9px;
     border-radius: 8px;
@@ -3012,7 +3012,7 @@ body {
 }
 
 .thanks-title--accent {
-    color: #899f40;
+    color: #37addb;
 }
 
 .thanks-description {
@@ -3035,7 +3035,7 @@ body {
     line-height: 1;
     color: #fff;
     text-decoration: none;
-    background: #899f40;
+    background: #37addb;
     transition: filter 0.2s ease, transform 0.1s ease;
 }
 
