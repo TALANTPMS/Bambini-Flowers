@@ -251,11 +251,12 @@ body {
 
 .main-title {
     font-family: "Montserrat-Bold";
-    font-size: 26px;
+    font-size: clamp(22px, 6.2vw, 26px);
     margin-bottom: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     text-align: center;
     color: #161C2C;
+    text-wrap: balance;
 }
 
 
@@ -1259,10 +1260,10 @@ body {
     margin-bottom: 12px;
     padding: 2px 9px 4px 9px;
     border-radius: 8px;
-    display: inline;
+    display: inline-block;
     width: fit-content;
     text-align: center;
-    font-size: 22px;
+    font-size: clamp(18px, 5.4vw, 22px);
 }
 
 .footer-col-info {
